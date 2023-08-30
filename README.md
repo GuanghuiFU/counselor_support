@@ -6,7 +6,7 @@ The LLM-Counselors Support System aims to enhance the quality and efficacy of co
 
 ## Workflow
 
-![Workflow](overflow.pdf)
+![Workflow]([overflow.pdf](https://github.com/GuanghuiFU/counselor_support/blob/main/overflow.pdf))
 
 The overall workflow is as follows:
 1. The client initiates a dialogue with the counselor.
