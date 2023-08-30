@@ -55,7 +55,7 @@ The `chapters2chroma_csv.py` script serves as a utility for preparing text embed
 
 ### Running the `counselor_support_gradio.py` script
 
-The counselor_support_gradio.py script serves as the main interface and core engine of the LLM-Counselors Support System. It uses Gradio to provide a user interface and integrates OpenAI's GPT-3.5 model to assist counselors in formulating enhanced replies ("Reply+"). The script includes a privacy filtering function that uses regular expressions to mask personally identifiable information in text. Overall, this script embodies the system's iterative approach to enhancing counseling communications.
+The `counselor_support_gradio.py` script serves as the main interface and core engine of the LLM-Counselors Support System. It uses Gradio to provide a user interface and integrates OpenAI's GPT-3.5 model to assist counselors in formulating enhanced replies ("Reply+"). The script includes a privacy filtering function that uses regular expressions to mask personally identifiable information in text. Overall, this script embodies the system's iterative approach to enhancing counseling communications.
 
 
 ## Dependencies
